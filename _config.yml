@@ -75,6 +75,8 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 #theme: landscape
 theme: Daily
+footer: Powered by <a href="https://www.mmbbao.com/">毛毛爆爆</a>
+google_analytics: UA-126365819-1
 #RSS订阅
 plugin:
 - hexo-generator-feed
