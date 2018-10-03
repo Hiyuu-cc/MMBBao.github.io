@@ -21,10 +21,7 @@ highlight:
 nav:
   7299: https://www.mmbbao.com
   Love: Love
-  Application: Application
-  Tutorial: archives
-  RSS: atom.xml
-  About: about
+  Tutorial: .
 
 # hexo-renderer-sass
 node_sass:
