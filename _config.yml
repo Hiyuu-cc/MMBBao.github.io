@@ -15,8 +15,13 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://www.mmbbao.com/
 root: /
-permalink: :category/:title/
+permalink: mmbbao/:abbrlink/
 permalink_defaults:
+
+# abbrlink config
+abbrlink:
+  alg: crc16
+  rep: hex
 
 # Directory
 source_dir: source
@@ -90,5 +95,6 @@ feed:
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:MMBBao/MMBBao.github.io.git
-  branch: master
+  repo: 
+        Github: git@github.com:MMBBao/MMBBao.github.io.git,master
+        Coding: git@git.coding.net:MMBBao/MMBBao.coding.me.git,master

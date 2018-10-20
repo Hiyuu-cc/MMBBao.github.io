@@ -1,13 +1,13 @@
 ---
-title: 教程：如何开启Apple ID两步验证,预防隐私泄露
-date: 2018-07-23 17:08  
-tag: 
- - iOS
- - Apple
- - 两步验证
-
-photos: 
- - https://i.loli.net/2018/09/28/5badcebccb5d2.jpg
+title: '教程：如何开启Apple ID两步验证,预防隐私泄露'
+date: '2018-07-23 17:08'
+tag:
+  - iOS
+  - Apple
+  - 两步验证
+photos:
+  - 'https://i.loli.net/2018/09/28/5badcebccb5d2.jpg'
+abbrlink: 1a9d
 ---
 
 
